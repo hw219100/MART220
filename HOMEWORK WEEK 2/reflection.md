@@ -1,1 +1,9 @@
+AI prompt: Colorful quilt created with simple shapes.
 
+Creative differences: One of the differences between my design and the AI’s is that the AI reused patterns throughout the quilt. For example, four tile shapes are the same design but have different colors. While my work references more traditional quilt-making, I choose to include a wider variety of patterns to make it more visually interesting. Additionally, my piece was intended as a visual work inspired by quilt patterns, while AI did a literal representation. 
+
+Representation: My coded quilt represents the concept through very simple shapes rather than trying to replicate the real thing. It utilizes pattern, color, and design rather than the textures of fabric. The AI-generated quilt made a semi-realistic sketch, adhering to the look of real fabric through texture. My work, on the other hand, interprets the quilt as a concept, while AI focuses on realistic representation. This comparison shows that coding can create more conceptual work, while AI aims to produce more realistic images.
+
+Style: My coded quilt is more stylized and simple. The AI-generated quilt is more detailed and realistic. That being said, AI captured the textures correctly, but some patterns are mismatched or not aligned, which doesn't fully represent real-life quilts. My design adheres closely to the quilt structure yet is a stylized interpretation. For color, the AI followed my task of creating a colorful quilt; my color choices are more stylized, focusing on vibrant contrast. Overall, my sketch has a more playful feel, while AI's sketch captures realistic form and texture.
+
+Interpretation: Both sketches rely heavily on simple shapes and repeating patterns, which were inspired by quilt-making and align with coding simple shapes. The AI reuses patterns more across the sketch, while I tried to make each of mine different. However, both interpretations adhere to the concept of sketching a quilt through shapes.
