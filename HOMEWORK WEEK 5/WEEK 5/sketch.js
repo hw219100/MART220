@@ -44,7 +44,6 @@ sushiY[i] += sushiSpeed[i];
 
 // draw sushi
 function drawSushi(x, y, size){
- // Rice
   noStroke();
   fill(255);
   rect(x, y, size, size * 0.6);
